@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fbecf5 ;
+}
+
+nav {
+    background-color: #a59389;
+    color: #fbecf5;
+    padding: 10px;
+}
+
+nav h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+p#result {
+    text-align: center;
+    font-size: 44px;
+    margin-top: 20px;
+    color: #a59389;
+    font-family: monospace;
+}
+
+nav button {
+    border: none;
+    border-radius: 2px;
+    background-color: #fbecf5;
+    cursor: pointer;
+    font-size: 20px;
+    margin: 10px;
+   font-family: monospace;
+   color:#a59389
+}
+
+
+#navbuttons {
+    padding : 10px;
+    float : center;
+    text-align : center;
+
+}
